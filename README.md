@@ -2,7 +2,4 @@
 test
 
 
-let see what happend
-
-hahah
-
+hello there, lets see what happend.
